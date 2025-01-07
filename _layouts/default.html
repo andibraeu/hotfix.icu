@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <header>
+    {% if page.layout == 'home' %}
+      <img src="/assets/images/banner.png" alt="HotFix 2025 Banner">
+    {% endif %}
+  </header>
+  <main>
+    {{ content }}
+  </main>
+</body>
+</html>
