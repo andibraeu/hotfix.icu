@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "HotFix 2025"
 ---
 # HotFix 2025
