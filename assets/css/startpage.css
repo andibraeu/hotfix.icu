@@ -1,0 +1,10 @@
+@media (min-width: 64em) {
+    .wide .page {
+       /* float: right; */
+       width: 100%;
+    }
+}
+
+h1.page__title {
+    text-align: center;
+}

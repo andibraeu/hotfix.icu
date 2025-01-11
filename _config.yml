@@ -2,3 +2,7 @@ title: "HotFix 2025"
 description: "The Software Crafters Summer Conference"
 baseurl: ""
 url: "https://hotfix.icu"
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
+markdown: kramdown
+logo: /assets/images/logo.png

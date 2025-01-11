@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Permanent Marker';
+    src: url('/assets/fonts/permanent-marker/PermanentMarker-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  h1, h2, h3 {
+    font-family: 'Permanent Marker', sans-serif;
+  }
+
+  a.site-title {
+    display: none;
+  }
