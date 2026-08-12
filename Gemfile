@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 gem "jekyll", "= 4.4.1"
-gem "minimal-mistakes-jekyll", "= 4.28.0"
+gem "minimal-mistakes-jekyll", "= 4.28.1"
